@@ -1,5 +1,5 @@
 # 7learning_coding_challenge
-This repository contains the code for Forecasting problem "Whether it will snow. 
+This repository contains the code for Forecasting problem "Whether it will snow tomorrow or not". 
 
 Please open the Jupyter notebook for viewing the code. 
 
